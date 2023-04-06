@@ -1,0 +1,374 @@
+34 (AKAZE/FREAK):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1513 keypoints in 98.0601 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 55.7298 ms
+#6 : EXTRACT DESCRIPTORS done
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1541 keypoints in 76.299 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 57.2219 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=915 matches in 57.599 ms
+# keypoints removed = 598
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.9771
+Xmin for Lidar TTC computation: 7.9189
+TTC Lidar: 13.6064 S
+TTC Camera: 13.5431 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1529 keypoints in 76.8933 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 56.426 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=910 matches in 58.7405 ms
+# keypoints removed = 631
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.9189
+Xmin for Lidar TTC computation: 7.8516
+TTC Lidar: 11.6666 S
+TTC Camera: 16.8533 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1561 keypoints in 77.201 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 58.7339 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=969 matches in 62.2215 ms
+# keypoints removed = 560
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.8516
+Xmin for Lidar TTC computation: 7.8069
+TTC Lidar: 17.4651 S
+TTC Camera: 16.7536 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1545 keypoints in 78.1021 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 56.6537 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=935 matches in 60.8965 ms
+# keypoints removed = 626
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.8069
+Xmin for Lidar TTC computation: 7.74644
+TTC Lidar: 12.8135 S
+TTC Camera: 13.9759 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1526 keypoints in 75.3327 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 55.5098 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=900 matches in 59.0242 ms
+# keypoints removed = 645
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.74644
+Xmin for Lidar TTC computation: 7.68756
+TTC Lidar: 13.0543 S
+TTC Camera: 15.97 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1566 keypoints in 79.6355 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 57.5243 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=947 matches in 61.1249 ms
+# keypoints removed = 579
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.68756
+Xmin for Lidar TTC computation: 7.5815
+TTC Lidar: 7.14861 S
+TTC Camera: 14.4637 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1529 keypoints in 112.295 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 61.4253 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=984 matches in 60.843 ms
+# keypoints removed = 582
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.5815
+Xmin for Lidar TTC computation: 7.5639
+TTC Lidar: 42.9767 S
+TTC Camera: 15.3627 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1547 keypoints in 77.6882 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 57.3747 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=959 matches in 60.5387 ms
+# keypoints removed = 570
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.5639
+Xmin for Lidar TTC computation: 7.527
+TTC Lidar: 20.3984 S
+TTC Camera: 20.5351 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1572 keypoints in 77.3021 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 58.7121 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=961 matches in 62.2793 ms
+# keypoints removed = 586
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.527
+Xmin for Lidar TTC computation: 7.4722
+TTC Lidar: 13.6354 S
+TTC Camera: 23.5542 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1567 keypoints in 78.8916 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 57.788 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=970 matches in 62.7445 ms
+# keypoints removed = 602
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.4722
+Xmin for Lidar TTC computation: 7.4184
+TTC Lidar: 13.7889 S
+TTC Camera: 11.9495 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1538 keypoints in 78.5393 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 56.8375 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=935 matches in 61.0779 ms
+# keypoints removed = 632
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.4184
+Xmin for Lidar TTC computation: 7.3503
+TTC Lidar: 10.7934 S
+TTC Camera: 12.2176 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1513 keypoints in 79.5246 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 56.3786 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=961 matches in 57.5742 ms
+# keypoints removed = 577
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.3503
+Xmin for Lidar TTC computation: 7.277
+TTC Lidar: 9.9277 S
+TTC Camera: 17.8096 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1538 keypoints in 104.273 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 60.6472 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=964 matches in 66.3793 ms
+# keypoints removed = 549
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.277
+Xmin for Lidar TTC computation: 7.1984
+TTC Lidar: 9.15828 S
+TTC Camera: 10.7572 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1555 keypoints in 77.7321 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 57.1703 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=1010 matches in 59.6647 ms
+# keypoints removed = 528
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.1984
+Xmin for Lidar TTC computation: 7.1367
+TTC Lidar: 11.5668 S
+TTC Camera: 9.86108 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1544 keypoints in 77.7699 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 59.6955 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=1028 matches in 60.3843 ms
+# keypoints removed = 527
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.1367
+Xmin for Lidar TTC computation: 7.0527
+TTC Lidar: 8.39608 S
+TTC Camera: 9.89104 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1563 keypoints in 79.0729 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 56.8817 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=1011 matches in 61.1047 ms
+# keypoints removed = 533
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 7.0527
+Xmin for Lidar TTC computation: 6.9713
+TTC Lidar: 8.56424 S
+TTC Camera: 13.8816 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1561 keypoints in 77.3607 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 57.9075 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=1027 matches in 62.1212 ms
+# keypoints removed = 536
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 6.9713
+Xmin for Lidar TTC computation: 6.8986
+TTC Lidar: 9.48912 S
+TTC Camera: 11.2597 S
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+AKAZE detector with n= 1569 keypoints in 76.7418 ms
+#5 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 57.9972 ms
+#6 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=1054 matches in 62.1291 ms
+# keypoints removed = 507
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Xmin for Lidar TTC computation: 6.8986
+Xmin for Lidar TTC computation: 6.8507
+TTC Lidar: 14.3021 S
+TTC Camera: 8.7657 S
+
+        ====================
+

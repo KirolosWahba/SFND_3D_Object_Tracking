@@ -1,0 +1,13 @@
+39 (SIFT/ORB):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+SIFT detector with n= 1890 keypoints in 161.115 ms
+#5 : DETECT KEYPOINTS done
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.1.0) /tmp/opencv/modules/core/src/alloc.cpp:55: error: (-4:Insufficient memory) Failed to allocate 70168247552 bytes in function 'OutOfMemoryError'
+
+Aborted (core dumped)

@@ -1,0 +1,13 @@
+17 (FAST/AKAZE):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+FAST detection with n=5275 keypoints in 2.27445 ms
+#5 : DETECT KEYPOINTS done
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.1.0) /tmp/opencv/modules/features2d/src/kaze/AKAZEFeatures.cpp:1192: error: (-215:Assertion failed) 0 <= kpts[i].class_id && kpts[i].class_id < static_cast<int>(evolution_.size()) in function 'Compute_Descriptors'
+
+Aborted (core dumped)
